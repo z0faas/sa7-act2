@@ -7,4 +7,4 @@ numbers.each do |number|
   puts number * 2
 end
 
-puts numbers.map { |n| n * 3 }
+p numbers.map { |n| n * 3 }
